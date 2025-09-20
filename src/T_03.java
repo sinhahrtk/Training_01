@@ -8,8 +8,8 @@ public class T_03 {
         int r = sc.nextInt();
         int t = sc.nextInt();
 
-        double s = p*r*t;
-        double si = s/100;
+        int s = p*r*t;
+        int si = s/100;
 
         System.out.println("Simple Intrest = " + si);
 
