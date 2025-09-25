@@ -15,7 +15,7 @@ public class T_02 {
 
         int Area = length*breadth ;
         System.out.println("Area of Rectangle = " + Area);
-
+//updated the code
     }
 
 

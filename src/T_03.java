@@ -10,7 +10,7 @@ public class T_03 {
 
         double s = p*r*t;
         double si = s/100;
-
+// updated the code
         System.out.println("Simple Intrest = " + si);
 
     }
